@@ -1,2 +1,0 @@
-# quickLinkTechnologyLLC
-webpage underconstruction
