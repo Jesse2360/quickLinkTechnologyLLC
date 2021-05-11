@@ -1,5 +1,5 @@
 $(document).ready(() => {
-    AOS.init();
+  
     $(".body-transition").hide();
   
     let renderAnimation = () => {
@@ -59,4 +59,3 @@ $(document).ready(() => {
         nav.toggleClass('scrolled', $(this).scrollTop() > nav.height() * 20);
       });
   });
-  

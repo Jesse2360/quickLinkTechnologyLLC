@@ -4,7 +4,7 @@ body {
 }
 
 body {
-  background: #0a192f !important;
+  background: #c410b5 !important;
   background-attachment: fixed;
   color: #ccd6f6 !important;
   margin: 0px;
@@ -64,7 +64,7 @@ button:focus {
 }
 
 .navbar.scrolled {
-  background-color: rgba(10, 25, 47, 0.985) !important;
+  background-color: rgba(211, 18, 211, 0.985) !important;
   -webkit-transition: background-color 200ms linear;
   transition: background-color 200ms linear;
 }
@@ -178,7 +178,7 @@ button:focus {
 }
 
 .experience-wrapper {
-  background-color: #06060b !important;
+  background-color: #7e165b !important;
   padding-top: 150px;
   padding-bottom: 150px;
   margin-top: 10rem;
@@ -197,7 +197,7 @@ button:focus {
 }
 
 .custom-btn {
-  background: #0d1e33 !important;
+  background: #9b0cc7 !important;
   border-color: #8892b0 !important;
   color: #8892b0 !important;
   font-family: "Space Mono", monospace !important;
@@ -446,4 +446,3 @@ footer {
     height: 560px !important;
   }
 }
-/*# sourceMappingURL=style.css.map */
